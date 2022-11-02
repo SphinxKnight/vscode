@@ -54,7 +54,7 @@ context.strokeStyle = 'blue';
 context.
 |||
 
->**Tip:** while we ship JavaScript and TypeScript support out of the box other languages can be upgraded with better IntelliSense through one of the many [extensions](command:workbench.extensions.action.showPopularExtensions).
+>**Tip:** While we ship JavaScript and TypeScript support out of the box other languages can be upgraded with better IntelliSense through one of the many [extensions](command:workbench.extensions.action.showPopularExtensions).
 
 
 ### Line Actions
@@ -153,7 +153,7 @@ You can greatly accelerate your editing through the use of snippets.  Simply sta
 
 |||
 
->**Tip:** the [extension gallery](command:workbench.extensions.action.showPopularExtensions) includes snippets for almost every framework and language imaginable.  You can also create your own [user-defined snippets](command:workbench.action.openSnippets).
+>**Tip:** The [extension gallery](command:workbench.extensions.action.showPopularExtensions) includes snippets for almost every framework and language imaginable.  You can also create your own [user-defined snippets](command:workbench.action.openSnippets).
 
 
 ### Emmet
